@@ -11,4 +11,3 @@ tiktoken==0.7.0
 
 python-dotenv==1.0.0
 colorama==0.4.6
-pysqlite3-binary==0.5.4
